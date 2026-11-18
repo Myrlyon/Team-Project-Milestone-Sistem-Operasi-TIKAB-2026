@@ -10,10 +10,10 @@ The system is designed to support Ubuntu/Debian and Rocky/AlmaLinux environments
 
 | No. | Name | Role | Responsibilities / Files |
 |---|---|---|---|
-| 1 | [Member 1] | Integrator & Master Installer | `deploy.sh`, integration, Git branches and merges |
-| 2 | [Member 2] | Provisioning & Dependencies | `scripts/01_setup_users.sh`, `scripts/02_install_deps.sh`, `env.example`, `configs/database.cnf` |
-| 3 | [Member 3] | Systemd & Nginx Gateway | `systemd/webapp.service`, `configs/nginx.conf.template`, `app/app.py`, `scripts/04_deploy_services.sh` |
-| 4 | [Member 4] | Security, Documentation & QA | `scripts/03_configure_sec.sh`, `tests/health_check.sh`, `README.md`, `.gitignore` |
+| 1 | [Marlen Edzel Satriani] | Integrator & Master Installer | `deploy.sh`, integration, Git branches and merges |
+| 2 | [Kinza Alham Jawda Murtaza] | Provisioning & Dependencies | `scripts/01_setup_users.sh`, `scripts/02_install_deps.sh`, `env.example`, `configs/database.cnf` |
+| 3 | [Hafiz Naufal Pramudya Susanto] | Systemd & Nginx Gateway | `systemd/webapp.service`, `configs/nginx.conf.template`, `app/app.py`, `scripts/04_deploy_services.sh` |
+| 4 | [Excel Adhiraja Subrian] | Security, Documentation & QA | `scripts/03_configure_sec.sh`, `tests/health_check.sh`, `README.md`, `.gitignore` |
 
 ---
 
