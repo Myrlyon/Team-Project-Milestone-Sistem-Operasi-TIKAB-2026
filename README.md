@@ -644,7 +644,7 @@ The `main` branch is protected. All changes should be submitted through Pull Req
 | Member 1 | Deployment orchestration and integration | `deploy.sh` | [Insert] |
 | Member 2 | User provisioning, dependencies, database | `scripts/01_setup_users.sh`, `scripts/02_install_deps.sh`, `configs/database.cnf` | [Insert] |
 | Member 3 | Backend, systemd, Nginx | `app/app.py`, `systemd/webapp.service`, `scripts/04_deploy_services.sh` | [Insert] |
-| Member 4 | Security, testing and documentation | `scripts/03_configure_sec.sh`, `tests/health_check.sh`, `README.md` | [Insert] |
+| Member 4 | Security, testing and documentation | `scripts/03_configure_sec.sh`, `tests/health_check.sh`, `README.md` | `0d58e2f`, `fe54b0b`, `b4aa996` |
 
 Commit history can be inspected using:
 
